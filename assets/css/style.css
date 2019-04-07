@@ -1,0 +1,39 @@
+body{
+	background-image: url("../images/background.png")
+}
+div{
+	background-color: white;
+	margin: 10px;
+	width: 25%
+
+}
+h1,  span{
+	font-weight: bold;
+	text-align: center;
+}
+h1{
+	font-size: 30pt;
+}
+
+div.header{
+	background-color: #c6c9bb;
+}
+div.header{
+	width: 100%;
+}
+.rules{
+    width: 75px
+}
+
+
+.numberToMatch{
+	width: 15%;
+	height: 60px;
+}
+.userTotal{
+	width: 15%;
+	height: 60px;
+}
+
+
+
