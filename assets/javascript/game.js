@@ -1,7 +1,6 @@
-// Im stuck nothing happens when i click on the gems
 
 
-$(document).ready(function(){
+jQuery(document).ready(function($){
     var Random=Math.floor(Math.random()*101+19)
 
     $('#randomNumber').text(Random);
